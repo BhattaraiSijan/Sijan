@@ -3,4 +3,4 @@
     It is 3D Model of Crane done using openGL on c++ in Qtcreator IDE.
 
 # OUTPUT
-[alt-tag](http://i.imgur.com/9VVkUdo.jpg)
+![output](http://i.imgur.com/9VVkUdo.jpg)
